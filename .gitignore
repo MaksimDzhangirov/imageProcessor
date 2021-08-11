@@ -1,0 +1,4 @@
+.idea
+.docker-conf/rabbitmq/data
+.docker-conf/rabbitmq/log
+filesAPI/images
